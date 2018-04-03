@@ -1,6 +1,7 @@
 public class RSA {
 
     // http://teh-box.ru/informationsecurity/algoritm-shifrovaniya-rsa-na-palcax.html
+    // https://www.sanfoundry.com/java-program-implement-rsa-algorithm/
 
     private final int P = 3; // простое число
     private final int Q = 11; // простое число
